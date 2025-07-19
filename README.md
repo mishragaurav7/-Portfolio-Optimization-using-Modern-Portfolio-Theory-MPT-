@@ -80,15 +80,6 @@ To simulate and optimize portfolio performance using Python by:
 
 ---
 
-## 📁 How to Run
-
-1. Clone the repository  
-2. Install required libraries using  
-   `pip install yfinance pandas numpy matplotlib scipy`  
-3. Run the notebook `Portfolio_Optimization_MPT.ipynb` in Jupyter
-
----
-
 ## 📌 References
 - Investopedia: [Modern Portfolio Theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp)
 
