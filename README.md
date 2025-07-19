@@ -64,7 +64,7 @@ To simulate and optimize portfolio performance using Python by:
 
 ## 📷 Visualization
 
-![Efficient Frontier](Efficient Frontier.png) <img width="530" height="302" alt="image" src="https://github.com/user-attachments/assets/a438e132-d3c0-458b-9e03-e37087b3423c" />
+<img width="530" height="302" alt="image" src="https://github.com/user-attachments/assets/a438e132-d3c0-458b-9e03-e37087b3423c" />
 
 
 
