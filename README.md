@@ -92,6 +92,13 @@ To simulate and optimize portfolio performance using Python by:
 ## 📌 References
 - Investopedia: [Modern Portfolio Theory](https://www.investopedia.com/terms/m/modernportfoliotheory.asp)
 
+---
 
+## 📬 Contacts 
 
+**Gaurav Mishra**  
+📧 Email:7mishragaurav@gmail.com
+🌐 LinkedIn: (www.linkedin.com/in/gaurav-mishra-3788ba271)
+🐙 GitHub: (https://github.com/mishragaurav7)
 
+---
